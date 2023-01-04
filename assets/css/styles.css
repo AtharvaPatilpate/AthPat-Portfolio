@@ -561,6 +561,10 @@ body.dark-theme {
     row-gap: 1rem;
   }
 
+  .filters__button {
+    padding: 1rem 0;
+  }
+
   .skills_box {
     column-gap: 1rem;
   }
@@ -611,6 +615,10 @@ body.dark-theme {
 
   .profile__info {
     column-gap: 1.5rem;
+  }
+
+  .filters__button {
+    padding: 1rem 0;
   }
 
   .profile__buttons {
