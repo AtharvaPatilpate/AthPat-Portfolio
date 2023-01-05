@@ -716,6 +716,17 @@ body.dark-theme {
   .profile {
     padding-top: 4rem;
   }
+  
+  .profile__container{
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+    column-gap: 5rem;
+  }
+
+  .button{
+    
+  }
 
   .profile__border {
     width: 135px;
